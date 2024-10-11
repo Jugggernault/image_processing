@@ -34,7 +34,7 @@ pip install gradio opencv-python scikit-image matplotlib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/image-lab.git
+   git clone https://github.com/Jugggernault/image_processing
    cd image_processing/PROJECT
    ```
 
@@ -97,6 +97,6 @@ Upload an image, select a filter, adjust contrast, or apply a morphological oper
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
